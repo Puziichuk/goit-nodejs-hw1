@@ -1,0 +1,28 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puziichuk/goit-nodejs-hw1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Puziichuk/goit-nodejs-hw1/issues"
+  },
+  "homepage": "https://github.com/Puziichuk/goit-nodejs-hw1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "short-id": "0.1.0-1",
+    "yargs": "^17.1.1"
+  }
+}
